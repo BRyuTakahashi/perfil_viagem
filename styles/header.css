@@ -25,6 +25,13 @@
   margin-bottom: 8px;
 }
 
+#profile img {
+  width: 176px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
 #info {
   list-style: none;
   display: flex;
